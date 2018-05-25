@@ -7,5 +7,5 @@ Author: Jinyue Arthur Kwok 郭锦岳
 
 Sustech EE Junior course EE326 Digital Image Processing
 
-Semester: 2017-18 Spring
+Semester: 2018 Spring
 
